@@ -155,6 +155,7 @@ static const struct LevelUpMove sButterfreeLevelUpLearnset[] = {
     LEVEL_UP_MOVE(23, MOVE_WHIRLWIND),
     LEVEL_UP_MOVE(28, MOVE_GUST),
     LEVEL_UP_MOVE(34, MOVE_PSYBEAM),
+    LEVEL_UP_MOVE(38, MOVE_FOLLOW_ME),
     LEVEL_UP_END
 };
 #endif //P_FAMILY_CATERPIE
