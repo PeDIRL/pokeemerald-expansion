@@ -36015,7 +36015,10 @@
       "MOVE_UPROAR",
       "MOVE_ENDEAVOR",
       "MOVE_SKITTER_SMACK",
-      "MOVE_THROAT_CHOP"
+      "MOVE_THROAT_CHOP",
+      "MOVE_LEAF_BLADE",
+      "MOVE_ALLURING_VOICE",
+      "MOVE_PSYCHIC_NOISE"
     ],
     "EggMoves": [],
     "TutorMoves": []
