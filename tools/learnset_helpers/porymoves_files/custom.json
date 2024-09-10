@@ -1064,7 +1064,9 @@
   "BEEDRILL": {
     "LevelMoves": [],
     "PreEvoMoves": [],
-    "TMMoves": [],
+    "TMMoves": [
+      "MOVE_SMART_STRIKE"
+    ],
     "EggMoves": [],
     "TutorMoves": []
   },
