@@ -14826,6 +14826,773 @@ const struct Item gItemsInfo[] =
         .secondaryId = MOVE_ZEN_HEADBUTT,
     },
 
+  [ITEM_TM342] =
+    {
+        .name = _("TM342"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM343] =
+    {
+        .name = _("TM343"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM344] =
+    {
+        .name = _("TM344"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM345] =
+    {
+        .name = _("TM345"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM346] =
+    {
+        .name = _("TM346"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM347] =
+    {
+        .name = _("TM347"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM348] =
+    {
+        .name = _("TM348"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM349] =
+    {
+        .name = _("TM349"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM350] =
+    {
+        .name = _("TM350"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM351] =
+    {
+        .name = _("TM351"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM352] =
+    {
+        .name = _("TM352"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM353] =
+    {
+        .name = _("TM353"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM354] =
+    {
+        .name = _("TM3554"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM355] =
+    {
+        .name = _("TM355"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM356] =
+    {
+        .name = _("TM356"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM357] =
+    {
+        .name = _("TM357"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM358] =
+    {
+        .name = _("TM358"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM359] =
+    {
+        .name = _("TM359"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM360] =
+    {
+        .name = _("TM360"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM361] =
+    {
+        .name = _("TM361"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM362] =
+    {
+        .name = _("TM362"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM363] =
+    {
+        .name = _("TM363"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM364] =
+    {
+        .name = _("TM3654"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM365] =
+    {
+        .name = _("TM365"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM366] =
+    {
+        .name = _("TM366"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM367] =
+    {
+        .name = _("TM367"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM368] =
+    {
+        .name = _("TM368"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM369] =
+    {
+        .name = _("TM369"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM370] =
+    {
+        .name = _("TM370"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM371] =
+    {
+        .name = _("TM371"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM372] =
+    {
+        .name = _("TM372"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM373] =
+    {
+        .name = _("TM373"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM374] =
+    {
+        .name = _("TM3754"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM375] =
+    {
+        .name = _("TM375"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM376] =
+    {
+        .name = _("TM376"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM377] =
+    {
+        .name = _("TM377"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM378] =
+    {
+        .name = _("TM378"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM379] =
+    {
+        .name = _("TM379"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM380] =
+    {
+        .name = _("TM380"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM381] =
+    {
+        .name = _("TM381"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM382] =
+    {
+        .name = _("TM382"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM383] =
+    {
+        .name = _("TM383"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM384] =
+    {
+        .name = _("TM3854"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM385] =
+    {
+        .name = _("TM385"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM386] =
+    {
+        .name = _("TM386"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM387] =
+    {
+        .name = _("TM387"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM388] =
+    {
+        .name = _("TM388"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM389] =
+    {
+        .name = _("TM389"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM390] =
+    {
+        .name = _("TM390"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM391] =
+    {
+        .name = _("TM391"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM392] =
+    {
+        .name = _("TM392"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM393] =
+    {
+        .name = _("TM393"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM394] =
+    {
+        .name = _("TM3954"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM395] =
+    {
+        .name = _("TM395"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM396] =
+    {
+        .name = _("TM396"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM397] =
+    {
+        .name = _("TM397"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM398] =
+    {
+        .name = _("TM398"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM399] =
+    {
+        .name = _("TM399"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
+  [ITEM_TM400] =
+    {
+        .name = _("TM400"),
+        .price = 3000,
+        .description = COMPOUND_STRING(
+            "Teaches a move."),
+        .importance = I_REUSABLE_TMS,
+        .pocket = POCKET_TM_HM,
+        .type = ITEM_USE_PARTY_MENU,
+        .fieldUseFunc = ItemUseOutOfBattle_TMHM,
+        .secondaryId = MOVE_NONE,
+    },
+
     [ITEM_HM_CUT] =
     {
         .name = _("HM01"),
