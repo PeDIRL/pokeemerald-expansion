@@ -62,8 +62,7 @@
     F(DISARMING_VOICE) \
     F(DIVE) \
     F(DOUBLE_TEAM) \
-    F(DOUBLE_
-    EDGE) \
+    F(DOUBLE_EDGE) \
     F(DRACO_METEOR) \
     F(DRAGON_BREATH) \
     F(DRAGON_CHEER) \
@@ -184,8 +183,7 @@
     F(MISTY_EXPLOSION) \
     F(MISTY_TERRAIN) \
     F(MUD_SHOT) \
-    F(MUD_
-    SLAP) \
+    F(MUD_SLAP) \
     F(MUDDY_WATER) \
     F(MYSTICAL_FIRE) \
     F(NASTY_PLOT) \
@@ -211,8 +209,7 @@
     F(POWER_GEM) \
     F(POWER_SWAP) \
     F(POWER_WHIP) \
-    F(POWER_
-    UP_PUNCH) \
+    F(POWER_UP_PUNCH) \
     F(PROTECT) \
     F(PSYBEAM) \
     F(PSYCH_UP) \
@@ -256,8 +253,7 @@
     F(SECRET_POWER) \
     F(SEED_BOMB) \
     F(SEISMIC_TOSS) \
-    F(SELF_
-    DESTRUCT) \
+    F(SELF_DESTRUCT) \
     F(SELFDESTRUCT) \
     F(SHADOW_BALL) \
     F(SHADOW_CLAW) \
@@ -326,8 +322,7 @@
     F(TRICK) \
     F(TRICK_ROOM) \
     F(TRIPLE_AXEL) \
-    F(U_
-    TURN) \
+    F(U_TURN) \
     F(UPPER_HAND) \
     F(UPROAR) \
     F(VACUUM_WAVE) \
@@ -342,13 +337,10 @@
     F(WHIRLPOOL) \
     F(WHIRLWIND) \
     F(WILD_CHARGE) \
-    F(WILL_
-    O_
-    WISP) \
+    F(WILL_O_WISP) \
     F(WONDER_ROOM) \
     F(WORK_UP) \
-    F(X_
-    SCISSOR) \
+    F(X_SCISSOR) \
     F(ZAP_CANNON) \
     F(ZEN_HEADBUTT) \
 
