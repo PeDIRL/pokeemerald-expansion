@@ -275,7 +275,7 @@
     F(SNOWSCAPE) \
     F(SOFTBOILED) \
     F(SOLAR_BEAM) \
-    F(SOLAR_BEAM) \
+    F(FREEZE_DRY) \
     F(SOLAR_BLADE) \
     F(SPEED_SWAP) \
     F(SPIKES) \

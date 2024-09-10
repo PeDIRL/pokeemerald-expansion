@@ -13949,8 +13949,8 @@ const struct Item gItemsInfo[] =
         .fieldUseFunc = ItemUseOutOfBattle_TMHM,
         .secondaryId = MOVE_SOLAR_BEAM,
     },
-    
-    [ITEM_TM_SOLAR_BEAM] =
+
+    [ITEM_TM_FREEZE_DRY] =
     {
         .name = _("TM274"),
         .price = 3000,
@@ -13960,9 +13960,9 @@ const struct Item gItemsInfo[] =
         .pocket = POCKET_TM_HM,
         .type = ITEM_USE_PARTY_MENU,
         .fieldUseFunc = ItemUseOutOfBattle_TMHM,
-        .secondaryId = MOVE_SOLAR_BEAM,
+        .secondaryId = MOVE_FREEZE_DRY,
     },
-    
+
     [ITEM_TM_SOLAR_BLADE] =
     {
         .name = _("TM275"),
