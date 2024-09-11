@@ -3581,10 +3581,10 @@ const struct SpeciesInfo gSpeciesInfoGen5[] =
     [SPECIES_PETILIL] =
     {
         .baseHP        = 45,
-        .baseAttack    = 35,
+        .baseAttack    = 50,
         .baseDefense   = 50,
-        .baseSpeed     = 30,
-        .baseSpAttack  = 70,
+        .baseSpeed     = 35,
+        .baseSpAttack  = 50,
         .baseSpDefense = 50,
         .types = MON_TYPES(TYPE_GRASS),
         .catchRate = 190,
