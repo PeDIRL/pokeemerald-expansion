@@ -59883,7 +59883,8 @@
       "MOVE_SKITTER_SMACK",
       "MOVE_BREAKING_SWIPE",
       "MOVE_CURSE",
-      "MOVE_DRAGON_CHEER"
+      "MOVE_DRAGON_CHEER",
+      "MOVE_POISON_JAB"
     ],
     "EggMoves": [
       "MOVE_COUNTER",
