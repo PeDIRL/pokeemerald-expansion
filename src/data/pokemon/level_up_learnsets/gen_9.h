@@ -600,6 +600,7 @@ static const struct LevelUpMove sSandshrewLevelUpLearnset[] = {
 };
 
 static const struct LevelUpMove sSandslashLevelUpLearnset[] = {
+    LEVEL_UP_MOVE( 0, MOVE_SPIKY_SHIELD),
     LEVEL_UP_MOVE( 1, MOVE_SCRATCH),
     LEVEL_UP_MOVE( 1, MOVE_CRUSH_CLAW),
     LEVEL_UP_MOVE( 1, MOVE_SAND_ATTACK),
@@ -644,6 +645,7 @@ static const struct LevelUpMove sSandshrewAlolanLevelUpLearnset[] = {
 };
 
 static const struct LevelUpMove sSandslashAlolanLevelUpLearnset[] = {
+    LEVEL_UP_MOVE( 0, MOVE_SPIKY_SHIELD),
     LEVEL_UP_MOVE( 0, MOVE_ICICLE_SPEAR),
     LEVEL_UP_MOVE( 1, MOVE_SCRATCH),
     LEVEL_UP_MOVE( 1, MOVE_MIST),
