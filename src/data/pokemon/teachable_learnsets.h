@@ -62948,6 +62948,7 @@ static const u16 sGoodraTeachableLearnset[] = {
     MOVE_MUDDY_WATER,
     MOVE_MUD_SHOT,
     MOVE_OUTRAGE,
+    MOVE_POISON_JAB,
     MOVE_POISON_TAIL,
     MOVE_POWER_WHIP,
     MOVE_PROTECT,
