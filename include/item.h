@@ -30,7 +30,7 @@ struct Item
 struct BagPocket
 {
     struct ItemSlot *itemSlots;
-    u8 capacity;
+    u16 capacity;
 };
 
 extern const struct Item gItemsInfo[];
