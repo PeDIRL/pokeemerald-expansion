@@ -10212,6 +10212,7 @@ static const struct LevelUpMove sBibarelLevelUpLearnset[] = {
 static const struct LevelUpMove sKricketotLevelUpLearnset[] = {
     LEVEL_UP_MOVE( 1, MOVE_TACKLE),
     LEVEL_UP_MOVE( 1, MOVE_GROWL),
+    LEVEL_UP_MOVE( 4, MOVE_QUICK_ATTACK),
     LEVEL_UP_MOVE( 6, MOVE_STRUGGLE_BUG),
     LEVEL_UP_MOVE( 8, MOVE_ROUND),
     LEVEL_UP_MOVE(16, MOVE_BUG_BITE),
@@ -10224,6 +10225,7 @@ static const struct LevelUpMove sKricketuneLevelUpLearnset[] = {
     LEVEL_UP_MOVE( 1, MOVE_TACKLE),
     LEVEL_UP_MOVE( 1, MOVE_GROWL),
     LEVEL_UP_MOVE( 1, MOVE_ROUND),
+    LEVEL_UP_MOVE( 1, MOVE_QUICK_ATTACK),
     LEVEL_UP_MOVE(14, MOVE_ABSORB),
     LEVEL_UP_MOVE(16, MOVE_DISARMING_VOICE),
     LEVEL_UP_MOVE(18, MOVE_SING),
@@ -10241,7 +10243,9 @@ static const struct LevelUpMove sKricketuneLevelUpLearnset[] = {
     LEVEL_UP_MOVE(42, MOVE_NIGHT_SLASH),
     LEVEL_UP_MOVE(44, MOVE_STICKY_WEB),
     LEVEL_UP_MOVE(46, MOVE_BUG_BUZZ),
+    LEVEL_UP_MOVE(48, MOVE_FIRST_IMPRESSION),
     LEVEL_UP_MOVE(50, MOVE_PERISH_SONG),
+    LEVEL_UP_MOVE(54, MOVE_BOOMBURST),
     LEVEL_UP_END
 };
 #endif //P_FAMILY_KRICKETOT

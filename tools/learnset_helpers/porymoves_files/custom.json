@@ -36018,7 +36018,8 @@
       "MOVE_THROAT_CHOP",
       "MOVE_LEAF_BLADE",
       "MOVE_ALLURING_VOICE",
-      "MOVE_PSYCHIC_NOISE"
+      "MOVE_PSYCHIC_NOISE",
+      "MOVE_CUT"
     ],
     "EggMoves": [],
     "TutorMoves": []
