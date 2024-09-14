@@ -2607,4 +2607,92 @@ const struct Ability gAbilitiesInfo[ABILITIES_COUNT] =
         .cantBeSwapped = TRUE,
         .cantBeTraced = TRUE,
     },
+
+    [ABILITY_ORCHESTRA] =
+    {
+    #if B_EXPANDED_ABILITY_NAMES == TRUE
+        .name = _("Orchestra"),
+    #else
+        .name = _("Orchestra"),
+    #endif
+        .description = COMPOUND_STRING("Conscious allies up Special and sound moves."),
+        .aiRating = 5,
+    },
+
+    [ABILITY_DOUBLE_JEOPARDY] =
+    {
+    #if B_EXPANDED_ABILITY_NAMES == TRUE
+        .name = _("Double Jeopardy"),
+    #else
+        .name = _("DoublJeopardy"),
+    #endif
+        .description = COMPOUND_STRING("Projectiles are weaker, but hit twice."),
+        .aiRating = 6,
+    },
+
+    [ABILITY_PIERCING_SWORD] =
+    {
+    #if B_EXPANDED_ABILITY_NAMES == TRUE
+        .name = _("Piercing Sword"),
+    #else
+        .name = _("PierceSword"),
+    #endif
+        .description = COMPOUND_STRING("Slicing moves evade protection."),
+        .aiRating = 6,
+    },
+
+    [ABILITY_SEED_MUNCHER] =
+    {
+    #if B_EXPANDED_ABILITY_NAMES == TRUE
+        .name = _("Seed Muncher"),
+    #else
+        .name = _("Seed Muncher"),
+    #endif
+        .description = COMPOUND_STRING("Eats Berries early, then raises Attack."),
+        .aiRating = 3,
+    },
+
+    [ABILITY_MAGMA_CHAMBER] =
+    {
+    #if B_EXPANDED_ABILITY_NAMES == TRUE
+        .name = _("Magma Chamber"),
+    #else
+        .name = _("MagmaChamber"),
+    #endif
+        .description = COMPOUND_STRING("Immune to Water. Touching deals Fire damage."),
+        .aiRating = 7,
+    },
+
+    [ABILITY_SHADOW_READER] =
+    {
+    #if B_EXPANDED_ABILITY_NAMES == TRUE
+        .name = _("Shadow Reader"),
+    #else
+        .name = _("ShadowReader"),
+    #endif
+        .description = COMPOUND_STRING("Shadow Sneak copies target's Ability."),
+        .aiRating = 3,
+    },
+
+    [ABILITY_SUBLIMATION] =
+    {
+    #if B_EXPANDED_ABILITY_NAMES == TRUE
+        .name = _("Sublimation"),
+    #else
+        .name = _("Sublimation"),
+    #endif
+        .description = COMPOUND_STRING("Recycles misses into weather or terrain."),
+        .aiRating = 7,
+    },
+
+    [ABILITY_STEEL_PLATING] =
+    {
+    #if B_EXPANDED_ABILITY_NAMES == TRUE
+        .name = _("Steel Plating"),
+    #else
+        .name = _("SteelPlating"),
+    #endif
+        .description = COMPOUND_STRING("Immune to weather and terrain."),
+        .aiRating = 6,
+    },
 };
