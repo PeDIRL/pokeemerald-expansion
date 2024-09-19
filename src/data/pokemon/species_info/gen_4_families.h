@@ -1003,7 +1003,7 @@ const struct SpeciesInfo gSpeciesInfoGen4[] =
 
     [SPECIES_KRICKETUNE] =
     {
-        .baseHP        = 70,
+        .baseHP        = 65,
         .baseAttack    = 90,
         .baseDefense   = 45,
         .baseSpeed     = 105,
